@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cac2b2e-0c24-4afc-93db-89899bdb5248" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jaka_to_liczba_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kolki_i_krzyzyk_od_nowa.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolki_i_krzyzyk_od_nowa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kolki_i_krzyzyk_od_nowa.py" beforeDir="false" afterPath="$PROJECT_DIR$/kolko_i_krzyzyk_od_nowa.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kolki_i_krzyzyk_od_nowa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kolko_i_krzyzyk_od_nowa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574100201424</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nowa wersja gry w zgadywanie liczb - z wykorzystaniem funkcji">
+      <created>1574104857394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574104857394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zaczynam od nowa z grą 'kółko i krzyżyk'" />
-    <option name="LAST_COMMIT_MESSAGE" value="zaczynam od nowa z grą 'kółko i krzyżyk'" />
+    <MESSAGE value="nowa wersja gry w zgadywanie liczb - z wykorzystaniem funkcji" />
+    <option name="LAST_COMMIT_MESSAGE" value="nowa wersja gry w zgadywanie liczb - z wykorzystaniem funkcji" />
   </component>
 </project>
